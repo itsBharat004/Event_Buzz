@@ -41,12 +41,14 @@
 .box{
   position: relative;
   height: 350px;
+  
 }
 .slider-img{
   position: absolute;
   top: 0;
   left: 0;
   z-index: -1;
+  border-radius: 30px;
 }
 .left{
   padding: 30px;

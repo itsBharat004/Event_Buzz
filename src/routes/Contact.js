@@ -9,7 +9,6 @@ export default function Contact(){
         <>
          <Navbar/>
          <Hero
-        cName="hero-Contact"
         heroImg={image4}
         title=""
         text=""
