@@ -8,7 +8,6 @@ export default function Service(){
         <>
          <Navbar/>
          <Hero
-        cName="hero-Service"
         heroImg={image3}
         title=""
         text=""

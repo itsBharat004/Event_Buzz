@@ -12,7 +12,6 @@ export default function About(){
         <Navbar/>
          
           <Hero
-          cName="hero-about"
           heroImg={AboutUsImg}
           title="About Us" 
           url="/About"
